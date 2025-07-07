@@ -2,6 +2,14 @@
 
 Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e matrículas em uma instituição de ensino.
 
+## 📸 Preview da Minha Aplicação no Projeto
+
+Durante a imersão, eu (Marco Caparra) fiz dois posts dentro do meu LinkedIn, mostrando imagens e contando cada detalhe sobre
+o projeto, aulas e experiências. E abaixo desta mensagem estão os links pros dois posts!
+
+> 👀 **Post 1**: [Clique aqui para acessar o post da aula 1 e 2](https://www.linkedin.com/posts/marco-caparra-b20b5a333_devops-docker-github-activity-7346330101766098944-jGux?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFP_ksgBN6ccTjfnbT5DTD4IIRQLNzkZoUoD)  
+> 📺 **Post 2**: [Clique aqui para acessar o post da aula 3 (última)](https://www.linkedin.com/posts/marco-caparra-b20b5a333_ontem-dando-continuidade-%C3%A0-minha-jornada-activity-7346881469547499520-xff0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFP_ksgBN6ccTjfnbT5DTD4IIRQLNzkZoUo)  
+
 ## Pré-requisitos
 
 - [Python 3.10 ou superior instalado](https://www.python.org/downloads/)
